@@ -1,0 +1,14 @@
+/*less than 600 and greater than 992
+or 
+@media(
+*/
+@media(max-width:600px ){
+    p{
+   color: red;
+    }
+}
+@media(min-width:992px){
+    p{
+        color: red;
+    }
+}
